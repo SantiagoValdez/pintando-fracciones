@@ -1,0 +1,8 @@
+[Activity]
+name = Pintando Fracciones
+bundle_id = org.laptop.PaintingFractionsActivity
+class = PaintingFractionsActivity.PaintingFractionsActivity
+icon = activity-paintingfractions
+activity_version = 1
+host_version = 1
+show_launcher = yes
